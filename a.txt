@@ -1,1 +1,1 @@
-sample text file is created
+sample text file is deleted
